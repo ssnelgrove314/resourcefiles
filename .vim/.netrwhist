@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/scott_snelgrove1/libft'
+let g:netrw_dirhist_2='/home/scott_snelgrove1/fillit'
+let g:netrw_dirhist_3='/home/scott_snelgrove1'
+let g:netrw_dirhist_4='/home/scott_snelgrove1/resourcefiles'
+let g:netrw_dirhist_5='/home/scott_snelgrove1/resourcefiles/.vim'
+let g:netrw_dirhist_6='/home/scott_snelgrove1/resourcefiles/.vim/plugged'
+let g:netrw_dirhist_7='/home/scott_snelgrove1/resourcefiles/.vim/plugged/CSApprox'
